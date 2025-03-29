@@ -1,4 +1,4 @@
-Note: 💔 Work in progress. This is just a fun project I'm making for learning purposes. It is most definitely not intended for real-world trading!
+Note: 💔 Work in progress. This is just for learning purposes, and definitely not intended for real-world trading!
 
 # TraderBot
 
